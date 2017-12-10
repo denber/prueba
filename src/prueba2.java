@@ -4,7 +4,7 @@
 public class prueba2 {
     public static void main(String[] args)
     {
-        System.out.println("Holas mundillo");
+        System.out.println("Holasn mundillo");
         System.out.println("FGFFfgfdGHH");
     }
 }
